@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(237, 227, 233);
 }
 h1 {
     text-align: center;
     margin-top: 100px;
     margin-bottom: 50px;
-    color:floralwhite;
+    color: rgb(9, 12, 8);
     text-transform: uppercase;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
