@@ -9,3 +9,12 @@ h1 {
     text-transform: uppercase;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.new-album {
+    text-align: center;
+}
+.song-title {
+    text-align: center;
+}
+.artist {
+    text-align: center;
+}
